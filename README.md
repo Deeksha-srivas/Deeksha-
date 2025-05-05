@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Projects I'm Proud Of  
-- 📝 [**One Piece Luffy NLP Analysis**](link_to_repo) — Because who said fandoms and data science can’t mix?
+- 📝 [**One Piece Luffy NLP Analysis**][(link_to_repo)](https://github.com/Deeksha-srivas/NLP_One_Piece_Luffy_Analysis) — Because who said fandoms and data science can’t mix?
 - ✈️ [**British Airways Sentiment Analysis**](link_to_repo) — Unpacking what passengers *really* think, one review at a time.
 - 💳 [**Proactive Fraud Detection**](link_to_repo) — Predicting fraud like a data detective.
 - 📊 [**Stock Market Analysis Dashboard**](link_to_repo) — Visualizing market moves with Tableau magic.
