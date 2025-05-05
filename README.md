@@ -28,4 +28,4 @@
 ---
 
 ## 📫 Let’s Connect!  
-[![LinkedIn](www.linkedin.com/in/deeksha-srivas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/deeksha-srivas)
